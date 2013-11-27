@@ -1,4 +1,4 @@
-# Parser [![Build Status](https://travis-ci.org/chrisenytc/livi18n-parser.png?branch=master)](https://travis-ci.org/chrisenytc/livi18n-parser) [![Dependency Status](https://gemnasium.com/chrisenytc/livi18n-parser.png)](https://gemnasium.com/chrisenytc/livi18n-parser) [![NPM version](https://badge.fury.io/js/livi18n-parser.png)](http://badge.fury.io/js/livi18n-parser) [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/chrisenytc/livi18n-parser/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+# Parser [![Build Status](https://travis-ci.org/chrisenytc/livi18n-parser.png?branch=master)](https://travis-ci.org/chrisenytc/livi18n-parser) [![Dependency Status](https://gemnasium.com/chrisenytc/livi18n-parser.png)](https://gemnasium.com/chrisenytc/livi18n-parser) [![NPM version](https://badge-me.herokuapp.com/api/npm/livi18n-parser.png)](http://badges.enytc.com/for/npm/livi18n-parser) [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/chrisenytc/livi18n-parser/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 > Parser API for internationalisation with Livi18n
 
 ## Instalation
